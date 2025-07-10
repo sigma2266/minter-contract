@@ -1,0 +1,7 @@
+{
+  "name": "SHO",
+  "symbol": "SHO",
+  "description": "Шо? Мем-токен на TON.",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/sigma2266/sho-metadata/main/logo.png"
+}
